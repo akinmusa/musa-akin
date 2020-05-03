@@ -1,0 +1,30 @@
+{
+  "name": "musa-akin",
+  "email":"akinmusa@outlook.com.tr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akinmusa/musa-akin.git"
+  },
+  "keywords": [
+    "deneme",
+    "test"
+  ],
+  "author": "Musa AKIN",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.9.11",
+    "nodemailer": "^6.4.6",
+    "simple-is": "^0.2.0"
+  },
+  "bugs": {
+    "url": "https://github.com/akinmusa/musa-akin/issues"
+  },
+  "homepage": "https://github.com/akinmusa/musa-akin#readme"
+
+}
